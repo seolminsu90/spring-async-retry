@@ -7,6 +7,6 @@
 
 ## Test
 ```bash
-curl -XGET localhost:8080/test #d use template
+curl -XGET localhost:8080/test # use template
 curl -XGET localhost:8080/test2 # use annotation
 ```
